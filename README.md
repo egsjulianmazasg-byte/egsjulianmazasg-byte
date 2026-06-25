@@ -1,7 +1,7 @@
 ## Hola mundo 👋
 
 <p align="center">
-  <img src="banner.jpg" width="180" alt="Profile Photo">
+  <img src="banner.jpeg" width="180" alt="Profile Photo">
 </p>
 
 ---
