@@ -6,7 +6,7 @@
 
 ---
 
-Here are some ideas to get you started:
+Me llamo Julián Mazas, tengo 21 años, me encanta aprender nuevas cosas y soy un apacionado por la tecnología. Aquí hay algunas cosas sobre mi:
 
 - Actualmente estoy estudiando Licenciatura en Tecnología en la UNAM campus Juriquilla en Querétaro
 - Estoy enfocando mi aprendisaje en Python, Arduino, R y herramientas que me permiten realizar proyectos de manera efectiva
